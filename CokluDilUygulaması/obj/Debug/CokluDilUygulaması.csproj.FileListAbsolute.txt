@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\CokluDilCeviriUygulamasi-master\CokluDilUygulaması\obj\Debug\CokluDilUygulaması.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CokluDilCeviriUygulamasi-master\CokluDilUygulaması\obj\Debug\CokluDilUygulaması.Properties.Resources.resources
+C:\Users\user\Desktop\CokluDilCeviriUygulamasi-master\CokluDilUygulaması\obj\Debug\CokluDilUygulaması.csproj.GenerateResource.cache
+C:\Users\user\Desktop\CokluDilCeviriUygulamasi-master\CokluDilUygulaması\obj\Debug\CokluDilUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CokluDilCeviriUygulamasi-master\CokluDilUygulaması\bin\Debug\CokluDilUygulaması.exe.config
+C:\Users\user\Desktop\CokluDilCeviriUygulamasi-master\CokluDilUygulaması\bin\Debug\CokluDilUygulaması.exe
+C:\Users\user\Desktop\CokluDilCeviriUygulamasi-master\CokluDilUygulaması\bin\Debug\CokluDilUygulaması.pdb
+C:\Users\user\Desktop\CokluDilCeviriUygulamasi-master\CokluDilUygulaması\obj\Debug\CokluDilUygulaması.exe
+C:\Users\user\Desktop\CokluDilCeviriUygulamasi-master\CokluDilUygulaması\obj\Debug\CokluDilUygulaması.pdb
+C:\Users\user\Desktop\CokluDilCeviriUygulamasi-master\CokluDilUygulaması\obj\Debug\CokluDilUygulaması.exe.config
